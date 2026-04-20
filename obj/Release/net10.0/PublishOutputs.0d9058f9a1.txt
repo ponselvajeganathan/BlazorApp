@@ -1,0 +1,5 @@
+D:\BlazorApp\publish\wwwroot\404.html
+D:\BlazorApp\publish\wwwroot\index.html
+D:\BlazorApp\publish\BlazorApp.runtimeconfig.json
+D:\BlazorApp\publish\dotnet.js
+D:\BlazorApp\publish\web.config

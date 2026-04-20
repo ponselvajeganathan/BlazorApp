@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BlazorApp\\BlazorApp.csproj": {}
+    "d:\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "D:\\BlazorApp\\BlazorApp.csproj": {
+    "d:\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "d:\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "D:\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "d:\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\PonSelvaJeganathan\\.nuget\\packages\\",
-        "outputPath": "D:\\BlazorApp\\obj\\",
+        "outputPath": "d:\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2o3ahrpdG9E=",
+  "dgSpecHash": "ukd+b3NCSgE=",
   "success": true,
-  "projectFilePath": "D:\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "d:\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PonSelvaJeganathan\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.6\\microsoft.aspnetcore.app.internal.assets.10.0.6.nupkg.sha512",
     "C:\\Users\\PonSelvaJeganathan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.5\\microsoft.aspnetcore.authorization.10.0.5.nupkg.sha512",
